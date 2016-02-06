@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BenchTest;
+namespace GitaminHQ\BenchTest;
 
 use InvalidArgumentException;
 

@@ -1,5 +1,5 @@
 {
-    "name": "phecho/benchtest",
+    "name": "gitaminhq/benchtest",
     "description": "BenchTest Provides Some Testing Functionality For Laravel 5",
     "keywords": ["laravel", "framework", "BenchTest"],
     "license": "MIT",
@@ -22,12 +22,12 @@
     },
     "autoload": {
         "psr-4": {
-            "BenchTest\\": "src/"
+            "GitaminHQ\\BenchTest\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Tests\\BenchTest\\": "tests/"
+            "Tests\\GitaminHQ\\BenchTest\\": "tests/"
         }
     },
     "config": {

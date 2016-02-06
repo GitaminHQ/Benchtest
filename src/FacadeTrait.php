@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BenchTest;
+namespace GitaminHQ\BenchTest;
 
 use Illuminate\Support\Facades\Facade;
 use ReflectionClass;
